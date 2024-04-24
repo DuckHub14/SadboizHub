@@ -11524,7 +11524,7 @@ spawn(function()
                 OrionLib:MakeNotification({
                     Name = "Tên Script",
                     Content = "Hop Server",
-                    Image = "rbxassetid://4483345998",
+                    Image = "rbxassetid://17269655811",
                     Time = 5
                 })
             else
